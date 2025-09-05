@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Skrypt do detekcji wiadomości spam z zaawansowanym przetwarzaniem
-"""
 
 import numpy as np
 import pandas as pd
